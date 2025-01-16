@@ -1,0 +1,31 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50vh;
+    background-color: palevioletred;
+}
+
+.try{
+    width: 15vw;
+    margin: 15px;
+}
+
+input{
+    background-color: black;
+    border: none;
+    border-radius: 20px;
+    height: 5vh;
+    color: white;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+select{
+    color: white;
+    background: black;
+    border: none;
+    height: 5vh;
+    border-radius: 20px;
+}
