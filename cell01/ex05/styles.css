@@ -1,0 +1,25 @@
+body{
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+}
+
+.tabela{
+    border: solid black;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 25px;
+}
+
+th{
+    border: solid 1px;
+    padding: 3px;
+}
+
+.celula1{
+    background-color: aqua;
+}
+
+.celula2{
+    background-color: greenyellow;
+}

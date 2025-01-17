@@ -1,0 +1,3 @@
+if [ -z "$*" ]; then echo "No arguments supplied"; fi
+for i -pe $@; do mkdir "ex$
+if [ i <= "$*" ]; then touch "ex$@"; fi
